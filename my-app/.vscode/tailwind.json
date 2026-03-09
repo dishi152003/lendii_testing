@@ -1,0 +1,25 @@
+{
+  "version": 1.1,
+  "atDirectives": [
+    {
+      "name": "@theme",
+      "description": "Extend or override Tailwind's default theme in v4."
+    },
+    {
+      "name": "@tailwind",
+      "description": "Use the `@tailwind` directive to insert Tailwind's `base`, `components`, `utilities` and `variants` styles into your CSS."
+    },
+    {
+      "name": "@apply",
+      "description": "Use the `@apply` directive to inline any existing utility classes into your own custom CSS."
+    },
+    {
+      "name": "@layer",
+      "description": "Setup custom `base`, `components`, or `utilities` styles."
+    },
+    {
+      "name": "@config",
+      "description": "Specify which config file to use for a particular css file."
+    }
+  ]
+}
